@@ -1,0 +1,8 @@
+package designPattern.behaviouralDesignPattern.strategyPattern;
+
+public class WalkPathCalculatorStrategy implements PathCalculatorStrategy{
+    @Override
+    public void findPath(String from, String to) {
+
+    }
+}
